@@ -1,0 +1,38 @@
+body {
+  /*background-color: #D7D7D7;*/
+}
+
+.chatBox {
+  padding: 20px;
+  border: 1px solid #eee;
+  border-radius: 5px;
+}
+
+.container {
+  margin-top: 25px;
+}
+
+.message {
+  padding: 10px;
+  border-radius: 15px;
+  color: #31708f;
+  background-color: #f7f7f7;
+}
+
+.message--self {
+  background-color: #d9edf7;
+}
+
+.username {
+  margin-left: 10px;
+}
+
+.newMessage {
+  padding: 20px;
+  padding-bottom: 0px;
+  border-top: 1px solid #eee;
+}
+
+.sendBtn {
+  margin-left: 10px;
+}
